@@ -1,0 +1,16 @@
+{
+  "name": "mern-edu-platform",
+  "version": "1.0.0",
+  "description": "Enterprise-grade MERN Stack Learning Management System",
+  "private": true,
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "install:backend": "cd backend && npm install",
+    "install:all": "npm run install:backend",
+    "dev": "npm run dev:backend"
+  },
+  "keywords": ["mern", "education", "lms", "express", "mongodb", "nodejs", "jwt", "socketio"],
+  "author": "EduPlatform Team",
+  "license": "MIT"
+}
