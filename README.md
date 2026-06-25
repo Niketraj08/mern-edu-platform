@@ -412,12 +412,7 @@ The api.js patterns map to RTK Query or Axios interceptors.
 
 Built as a production-ready enterprise template.
 
-**Tech Stack:**
-- Backend: Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, bcrypt
-- Frontend: HTML5, CSS3 (Custom Properties), Vanilla JS ES Modules
-- State: Custom Redux-pattern store
-- Auth: JWT Access + Refresh token rotation
-- Real-time: Socket.io with room-based events
+- GitHub: [@Niketraj08](https://github.com/Niketraj08)
 
 ---
 
