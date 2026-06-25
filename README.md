@@ -421,4 +421,4 @@ Built as a production-ready enterprise template.
 
 ---
 
-*For a React version, all patterns in this codebase translate 1:1 to React components with Redux Toolkit and React Router.*
+*client project For edu system @astracognixsolution.in*
