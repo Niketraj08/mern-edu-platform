@@ -408,8 +408,7 @@ The api.js patterns map to RTK Query or Axios interceptors.
 
 ---
 
-## 👥 Team & Credits
-
+## 👥 Team 
 Built as a production-ready enterprise template.
 
 - GitHub: [@Niketraj08](https://github.com/Niketraj08)
